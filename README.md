@@ -1,0 +1,4 @@
+minitalk
+========
+
+discussion client/serveur
